@@ -14,8 +14,8 @@
     "babel": "babel src -d views",
     "build": "npm run pack && npm run babel"
   },
-  "author": "Rohit kumar",
-  "license": "CC BY 4.0",
+  "author": "Nima Soroush",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.16.3",
     "react": "^16.3.2",
